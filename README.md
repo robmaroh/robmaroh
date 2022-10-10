@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @robmaroh
 - 👀 I’m interested in a Cybersecurity / Ethical Hacking career 
 - 🌱 I’m currently learning Computer Science at SNHU
-- 💞️ I’m looking to collaborate on ...
 - 📫 How you can reach me robmaroh@gmail.com
 
 <!---
