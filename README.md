@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robmaroh
-- 👀 I’m interested in a Cybersecurity / Ethical Hacking career 
-- 🌱 I’m currently learning Computer Science at SNHU
+- 👀 I’m interested in a career in Project Management with a focus on Computer Science 
+- 🌱 I’m currently working towards my BS in Computer Science at SNHU
 - 📫 How you can reach me robmaroh@gmail.com
 
 <!---
